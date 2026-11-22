@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>AirType</title><link>https://github.com/samyipsh-420/AirType/releases</link><description>AirType macOS updates</description></channel></rss><!-- sparkle-signatures:
+edSignature: M45V3xPp7cTjdIE3IK5zpR9c5rln2BN83qnsxS0Ptb5uze7fPlOuAnS3i5RF1zoFw4uXQMkPSv2LURdigFJmDg==
+length: 534
+-->
