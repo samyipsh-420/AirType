@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>AirType</title>
         <item>
-            <title>1.0.20</title>
-            <pubDate>Mon, 23 Nov 2026 05:05:23 +0800</pubDate>
-            <sparkle:version>1.0.20</sparkle:version>
-            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <title>1.0.21</title>
+            <pubDate>Mon, 23 Nov 2026 18:02:56 +0800</pubDate>
+            <sparkle:version>1.0.21</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/samyipsh-420/AirType/releases/download/v1.0.20/AirType-1.0.20-arm64.zip" length="36623391" type="application/octet-stream" sparkle:edSignature="83EF/ajN5pd0hFUw3kMlLvGNnp8nmG4IZApOFSxDatrtvfMqOJFj1PIeryQYsQikTK1beEjz27HRM+aqJLvcBA=="></enclosure>
+            <enclosure url="https://github.com/samyipsh-420/AirType/releases/download/v1.0.21/AirType-1.0.21-arm64.zip" length="36279922" type="application/octet-stream" sparkle:edSignature="KVAtoHjUXzp6UE4kpBXpww1AqBD3RrdSZxo3ME1yW36wQI4jRBD6U4vvYL9Jg2dPPTuO/uLQ2APn/HEVT0P3Aw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Bjs39Cw2sJ4ikHHH+nWsC5JP5VnQdxqfdQARr/GGbA71Lt1tGj6qcEKYJkDoLM8vCrsf5J2A1VHcA9Y3kbboAQ==
+edSignature: FrSJkumh8DCyHQlURc/ob6LiyLfjQ+20uep+MnZqXwphDEnPAjCmJ2taIjZt8p+js0vTx+9cEFUUIqFeAsQsDw==
 length: 1137
 -->
